@@ -1,2 +1,2 @@
-# ML-Notes
-all notes related to Machine Learning 
+# Machine Learning
+all notes related to Machine Learning By Data Trained 
